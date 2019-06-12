@@ -1,0 +1,6 @@
+270120190912, 22222,  "W Is For Wasted - Sue Grafton",  9.95, 1, 0.0, $9.95, 27/01/19, 09:12:54 PM EST
+270120190912, 99999,  "Rogue Lawyer - John Grisham",  15.95, 2, 0.0, $31.90, 27/01/19, 09:12:54 PM EST
+270120190912, 11234,  "Tricky Twenty-Two - Janet Evanovich",  12.95, 1, 0.0, $12.95, 27/01/19, 09:12:54 PM EST
+270120190913, 234,  "The Bourne Identity - Robert Ludlum",  12.95, 50, 20.0, $518.00, 27/01/19, 09:13:51 PM EST
+270120190914, 77777,  "Dust - Patricia Cornwell",  12.99, 2, 0.0, $25.98, 27/01/19, 09:14:45 PM EST
+270120190914, 19342,  "The Surgeon - Tess Gerritsen",  10.99, 1, 0.0, $10.99, 27/01/19, 09:14:45 PM EST
